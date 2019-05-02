@@ -1,0 +1,48 @@
+body {
+  font-family: 'Oswald', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.hero-section {
+  text-align: center;
+  background-image: url('../img/bg_hero.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #ffffff;
+  padding: 20rem;
+  font-family: 'Oswald', sans-serif;
+  font-weight: bold;
+}
+
+.navbar {
+background-color: #660066;
+}
+
+#navbarNav {
+color: #ffffff;
+}
+
+h1 {
+font-size: 80px;
+font-family: 'Oswald', sans-serif;
+font-weight: bold;
+}
+
+.yo-soy {
+padding-top: 10%;
+}
+
+.logo-co {
+width: 100px;
+height: 100px;
+}
+
+h5 {
+font-family: 'Oswald', sans-serif;
+font-weight: normal;
+}
+
+.footer {
+background-color: #660066;
+padding: 3%;
+}
